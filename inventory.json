@@ -1,6 +1,6 @@
 {
   "dealership": "Carter Gm Burnaby",
-  "generated_at": "2026-10-25T17:11:14",
+  "generated_at": "2026-10-26T00:40:02",
   "vehicle_count": 339,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -21,7 +21,9 @@
       "name": "Used2016FordTransit Cargo VanRWDBase",
       "vin": "1FTYR2CM8GKB53078",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/58e9200dc00b.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2016JeepWrangler Unlimited4WDWillys Wheeler",
@@ -34,7 +36,7 @@
       "vin": "1GYKNFRS7HZ181827",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/bfe3bbbe4ec7.html",
       "condition": "used",
-      "price": 26595.0,
+      "price": 26095.0,
       "price_currency": "CAD"
     },
     {
@@ -42,7 +44,7 @@
       "vin": "1FT8X3B67HEE76729",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/b0b56d41f41e.html",
       "condition": "used",
-      "price": 33295.0,
+      "price": 33395.0,
       "price_currency": "CAD"
     },
     {
@@ -56,7 +58,7 @@
       "vin": "3GTU2NEJ1JG334738",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/cf2e88c2f674.html",
       "condition": "used",
-      "price": 25095.0,
+      "price": 24695.0,
       "price_currency": "CAD"
     },
     {
@@ -252,7 +254,7 @@
       "vin": "1GKENNKS7RJ157202",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/4471591ff66d.html",
       "condition": "used",
-      "price": 45495.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
@@ -260,7 +262,7 @@
       "vin": "3GKALXEG3RL284383",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/2b4c4699f42c.html",
       "condition": "used",
-      "price": 28795.0,
+      "price": 28695.0,
       "price_currency": "CAD"
     },
     {
@@ -268,7 +270,7 @@
       "vin": "1GYKPWRL5TZ307372",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/3880aac0eeb1.html",
       "condition": "used",
-      "price": 69995.0,
+      "price": 70095.0,
       "price_currency": "CAD"
     },
     {
@@ -276,7 +278,7 @@
       "vin": "3GKALUEG0TL187647",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/93509b255593.html",
       "condition": "used",
-      "price": 38095.0,
+      "price": 38195.0,
       "price_currency": "CAD"
     },
     {
