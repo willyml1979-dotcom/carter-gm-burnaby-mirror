@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Burnaby",
-  "generated_at": "2026-11-17T11:05:03",
-  "vehicle_count": 334,
+  "generated_at": "2026-11-17T15:11:45",
+  "vehicle_count": 316,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -255,28 +255,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chevrolet Express Cargo Van \"CARGO 3500 155\"\" WB\"",
-      "vin": "1GCZGHF73S1258015",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/28dfd53d1189.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Express",
-      "condition": "new",
-      "price": 59953.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 GMC Sierra 1500 Denali",
-      "vin": "1GTUUGEL7SZ338883",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/dada11aa9eef.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 81442.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Buick Enclave Avenir",
       "vin": "5GAEVCKSXTJ398924",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/4f48e0251dde.html",
@@ -318,6 +296,17 @@
       "model": "Encore GX",
       "condition": "new",
       "price": 37721.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Buick Encore GX Preferred",
+      "vin": "KL4AMCSL7TB022114",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/58caeaf1108c.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Encore GX",
+      "condition": "new",
+      "price": 34975.0,
       "price_currency": "CAD"
     },
     {
@@ -366,17 +355,6 @@
     },
     {
       "name": "2026 Buick Envision Avenir",
-      "vin": "LRBFZSR46TD009489",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/40540536fed0.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 47922.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision Avenir",
       "vin": "LRBFZSR47TD111366",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/974b1b95c9a8.html",
       "year": 2026,
@@ -399,6 +377,17 @@
     },
     {
       "name": "2026 Buick Envision Avenir",
+      "vin": "LRBFZSR48TD085456",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c6c0efdea916.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Envision",
+      "condition": "new",
+      "price": 50760.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Buick Envision Avenir",
       "vin": "LRBFZSR48TD111442",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/f13993ee28d0.html",
       "year": 2026,
@@ -406,17 +395,6 @@
       "model": "Envision",
       "condition": "new",
       "price": 53497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision Avenir",
-      "vin": "LRBFZSR4XTD084969",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/9d72c860c1dd.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 49127.0,
       "price_currency": "CAD"
     },
     {
@@ -428,17 +406,6 @@
       "model": "Envision",
       "condition": "new",
       "price": 46617.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision Preferred",
-      "vin": "LRBFZMR43TD084999",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/66307beb6028.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 47112.0,
       "price_currency": "CAD"
     },
     {
@@ -563,17 +530,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Blazer RS",
-      "vin": "3GNKBKRS0TS190700",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/e62e2a5a1fa2.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Blazer",
-      "condition": "new",
-      "price": 61567.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Colorado 2WD Work Truck",
       "vin": "1GCPSBEK3T1268389",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/b44c81756996.html",
@@ -582,28 +538,6 @@
       "model": "Colorado",
       "condition": "new",
       "price": 43393.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Colorado 2WD Work Truck",
-      "vin": "1GCPSBEK4T1315137",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/32404cf2f74c.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "new",
-      "price": 42643.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Colorado 4WD Trail Boss",
-      "vin": "1GCPTEEK3T1281853",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/d38447493af2.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "new",
-      "price": 51682.0,
       "price_currency": "CAD"
     },
     {
@@ -746,7 +680,18 @@
       "make": "Chevrolet",
       "model": "Colorado",
       "condition": "new",
-      "price": 78897.0,
+      "price": 78930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Colorado 4WD ZR2",
+      "vin": "1GCPTFEK9T1343391",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/fe139ce4adba.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 68575.0,
       "price_currency": "CAD"
     },
     {
@@ -757,7 +702,7 @@
       "make": "Chevrolet",
       "model": "Corvette",
       "condition": "new",
-      "price": 83113.0,
+      "price": 83146.0,
       "price_currency": "CAD"
     },
     {
@@ -768,7 +713,7 @@
       "make": "Chevrolet",
       "model": "Corvette",
       "condition": "new",
-      "price": 158528.0,
+      "price": 158561.0,
       "price_currency": "CAD"
     },
     {
@@ -779,29 +724,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "new",
-      "price": 47873.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Equinox EV LT",
-      "vin": "3GN7DLRP5TS192427",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/177b4935396f.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 42012.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Equinox EV LT",
-      "vin": "3GN7DLRP5TS192430",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/dc997c910389.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 42607.0,
+      "price": 47906.0,
       "price_currency": "CAD"
     },
     {
@@ -812,7 +735,7 @@
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "new",
-      "price": 42193.0,
+      "price": 42226.0,
       "price_currency": "CAD"
     },
     {
@@ -823,7 +746,7 @@
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "new",
-      "price": 42707.0,
+      "price": 42740.0,
       "price_currency": "CAD"
     },
     {
@@ -834,18 +757,7 @@
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "new",
-      "price": 43888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Equinox EV LT",
-      "vin": "3GN7DLRR5TS192400",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/9fe97192d328.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 45512.0,
+      "price": 45025.0,
       "price_currency": "CAD"
     },
     {
@@ -856,7 +768,7 @@
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "new",
-      "price": 46107.0,
+      "price": 46140.0,
       "price_currency": "CAD"
     },
     {
@@ -867,18 +779,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 52388.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss",
-      "vin": "3GCUKCE87TG399470",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/7d6849cd8be5.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 61562.0,
+      "price": 62421.0,
       "price_currency": "CAD"
     },
     {
@@ -889,7 +790,51 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 59532.0,
+      "price": 57565.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 1500 LT",
+      "vin": "1GCUKDED1TZ555036",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/370c8f202e93.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 56605.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 1500 LT",
+      "vin": "1GCUKDED6TZ561060",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/53995d2ca7d4.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 56876.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 1500 LT",
+      "vin": "1GCUKDED8TZ554742",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/9ca1fa3ad5a1.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 57865.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 1500 LT",
+      "vin": "1GCUKDEDXTZ560865",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/86e024c251b2.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 61876.0,
       "price_currency": "CAD"
     },
     {
@@ -900,7 +845,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 76298.0,
+      "price": 76331.0,
       "price_currency": "CAD"
     },
     {
@@ -911,7 +856,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 69708.0,
+      "price": 57741.0,
       "price_currency": "CAD"
     },
     {
@@ -922,7 +867,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 72622.0,
+      "price": 70655.0,
       "price_currency": "CAD"
     },
     {
@@ -933,7 +878,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 65393.0,
+      "price": 63426.0,
       "price_currency": "CAD"
     },
     {
@@ -944,7 +889,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 68038.0,
+      "price": 66071.0,
       "price_currency": "CAD"
     },
     {
@@ -966,6 +911,17 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 3500HD LT",
+      "vin": "1GC4KTEY4TF426741",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/42f31fbd88d4.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "condition": "new",
+      "price": 90760.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD LT",
@@ -1024,17 +980,6 @@
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD Work Truck",
-      "vin": "1GC4KSE74TF368437",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/551fadc300bf.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 3500HD",
-      "condition": "new",
-      "price": 69833.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 3500HD Work Truck",
       "vin": "1GC4KSEY6TF368819",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/86e6e43d465d.html",
       "year": 2026,
@@ -1086,17 +1031,6 @@
       "model": "Suburban",
       "condition": "new",
       "price": 116882.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Suburban LT",
-      "vin": "1GNS6CKD4TR440688",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/a20a6ecd5510.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Suburban",
-      "condition": "new",
-      "price": 95973.0,
       "price_currency": "CAD"
     },
     {
@@ -1177,17 +1111,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Tahoe LT",
-      "vin": "1GNS6NKD8TR374934",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/9c97fd0d0069.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Tahoe",
-      "condition": "new",
-      "price": 91292.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Tahoe Premier",
       "vin": "1GNS6SK86TR108880",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/03007a317fc0.html",
@@ -1211,6 +1134,17 @@
     },
     {
       "name": "2026 Chevrolet Trailblazer ACTIV",
+      "vin": "KL79MSSL5TB327773",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/7a4553aca906.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "condition": "new",
+      "price": 39915.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Trailblazer ACTIV",
       "vin": "KL79MSSL9TB262491",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/aff13c94000a.html",
       "year": 2026,
@@ -1218,17 +1152,6 @@
       "model": "Trailblazer",
       "condition": "new",
       "price": 42617.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trailblazer LS",
-      "vin": "KL79MNSL5TB103534",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/07334360837f.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "condition": "new",
-      "price": 30939.0,
       "price_currency": "CAD"
     },
     {
@@ -1287,17 +1210,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Trax 1RS",
-      "vin": "KL77LGE23TC253435",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/b29a5f717316.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 29937.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Trax 2RS",
       "vin": "KL77LJE25TC083298",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/e25ab67a15da.html",
@@ -1321,13 +1233,13 @@
     },
     {
       "name": "2026 Chevrolet Trax ACTIV",
-      "vin": "KL77LKE21TC041619",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/a717e67ee6b6.html",
+      "vin": "KL77LKE25TC026170",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/e2def7aec905.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "new",
-      "price": 32073.0,
+      "price": 31806.0,
       "price_currency": "CAD"
     },
     {
@@ -1398,6 +1310,17 @@
     },
     {
       "name": "2026 Chevrolet Trax LT",
+      "vin": "KL77LHE24TC025806",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/7bcb066add9c.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "new",
+      "price": 28820.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Trax LT",
       "vin": "KL77LHE27TC080430",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/45dd9dfe93db.html",
       "year": 2026,
@@ -1460,17 +1383,6 @@
       "model": "Acadia",
       "condition": "new",
       "price": 74542.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Acadia Denali",
-      "vin": "1GKENRKS8TJ368620",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/2642af825240.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Acadia",
-      "condition": "new",
-      "price": 74352.0,
       "price_currency": "CAD"
     },
     {
@@ -1606,17 +1518,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC HUMMER EV Pickup 2X",
-      "vin": "1GT4EBDDXTU605720",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/d2936f2a4b57.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Hummer EV",
-      "condition": "new",
-      "price": 137186.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 GMC HUMMER EV SUV 2X",
       "vin": "1GKTENDE1TU605616",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/61b93638f602.html",
@@ -1649,15 +1550,6 @@
       "name": "2026 GMC Savana Cargo Van \"CARGO 3500 155\"\" WB\"",
       "vin": "1GTZ7HF75T1250497",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/2fef8927cf1a.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Savana",
-      "condition": "new"
-    },
-    {
-      "name": "2026 GMC Savana Cargo Van BASE",
-      "vin": "1GTW7BFP8T1263857",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/91e85467ba18.html",
       "year": 2026,
       "make": "GMC",
       "model": "Savana",
@@ -1775,17 +1667,6 @@
     },
     {
       "name": "2026 GMC Sierra 1500 Elevation",
-      "vin": "3GTUUCE84TG486513",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c4b98039e93c.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 71432.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 1500 Elevation",
       "vin": "3GTUUCE88TG483050",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c38ae881d188.html",
       "year": 2026,
@@ -1819,6 +1700,17 @@
     },
     {
       "name": "2026 GMC Sierra 1500 Elevation",
+      "vin": "3GTUUCED4TG130060",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/00ac94deecdb.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 67050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Elevation",
       "vin": "3GTUUCED4TG525551",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/ba84afada47a.html",
       "year": 2026,
@@ -1826,17 +1718,6 @@
       "model": "Sierra 1500",
       "condition": "new",
       "price": 72087.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 1500 Elevation",
-      "vin": "3GTUUCED6TG217779",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/fc1df0aef8cf.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 65763.0,
       "price_currency": "CAD"
     },
     {
@@ -1929,17 +1810,6 @@
     },
     {
       "name": "2026 GMC Sierra 1500 Pro",
-      "vin": "1GTUUAED4TZ420867",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/1fe7250cf1b8.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 70747.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 1500 Pro",
       "vin": "1GTUUAED5TZ280523",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/6872f1819f7d.html",
       "year": 2026,
@@ -1995,6 +1865,17 @@
     },
     {
       "name": "2026 GMC Sierra 3500HD AT4",
+      "vin": "1GT4UVEY2TF426758",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/3da20c02242b.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "price": 104380.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD AT4",
       "vin": "1GT4UVEY7TF380196",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/85bb05890cd1.html",
       "year": 2026,
@@ -2006,6 +1887,17 @@
     },
     {
       "name": "2026 GMC Sierra 3500HD Denali",
+      "vin": "1GT4UWEY2TF441766",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/f9bdd33df145.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "price": 108880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD Denali",
       "vin": "1GT4UWEY6TF412318",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/e9d043b5d106.html",
       "year": 2026,
@@ -2013,17 +1905,6 @@
       "model": "Sierra 3500HD",
       "condition": "new",
       "price": 108763.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 3500HD Denali Ultimate",
-      "vin": "1GT4UYEY0TF390084",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/1971c7d9980f.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 3500HD",
-      "condition": "new",
-      "price": 131002.0,
       "price_currency": "CAD"
     },
     {
@@ -2068,17 +1949,6 @@
       "model": "Sierra 3500HD",
       "condition": "new",
       "price": 82843.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 3500HD Pro",
-      "vin": "1GT4USEYXTF384645",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/0e50e93a0bf3.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 3500HD",
-      "condition": "new",
-      "price": 84868.0,
       "price_currency": "CAD"
     },
     {
@@ -2231,17 +2101,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV1VF111762",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/7c957fe10dd7.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV1VF120980",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/a1b99cc62815.html",
       "year": 2027,
@@ -2249,17 +2108,6 @@
       "model": "Bolt",
       "condition": "new",
       "price": 42512.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV2VF111690",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c527c2c908f2.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 42403.0,
       "price_currency": "CAD"
     },
     {
@@ -2275,28 +2123,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV2VF123953",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/aa9a7325d4e0.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 43507.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV3VF110337",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/f85db5d35852.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV3VF117367",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/ca63a24a5ce8.html",
       "year": 2027,
@@ -2304,17 +2130,6 @@
       "model": "Bolt",
       "condition": "new",
       "price": 42403.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV3VF120821",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/cd655c123fab.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 42213.0,
       "price_currency": "CAD"
     },
     {
@@ -2332,17 +2147,6 @@
       "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV4VF116194",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/2312538b784a.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 42403.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV4VF117345",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c4502fee9bab.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
@@ -2374,30 +2178,8 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV5VF110338",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/263b61dda14a.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV5VF111764",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/511a3310f731.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV5VF111778",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/b514d4d774d8.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
@@ -2429,17 +2211,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV6VF107156",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/e590d6280237.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV6VF112406",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/8e14f5f32168.html",
       "year": 2027,
@@ -2462,61 +2233,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV7VF120515",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/2298d0c58090.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 43507.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV8VF110334",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/a2a0439b98cc.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV8VF117588",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/2717f5492739.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV8VF120295",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/0c380397f7bf.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 42512.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV8VF120510",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/dbd839a98ba9.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 43507.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV8VF120989",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/23f0e087dc59.html",
       "year": 2027,
@@ -2528,13 +2244,13 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV9VF120838",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/58a9c573a3a7.html",
+      "vin": "1G1FY6EV9VF107149",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/7bf5fe9b96e2.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
       "condition": "new",
-      "price": 42213.0,
+      "price": 40934.0,
       "price_currency": "CAD"
     },
     {
@@ -2572,17 +2288,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EVXVF111775",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/e3773953667f.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EVXVF114773",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/badfc9778e81.html",
       "year": 2027,
@@ -2590,17 +2295,6 @@
       "model": "Bolt",
       "condition": "new",
       "price": 42903.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EVXVF120301",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/a0a93f81a170.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 42512.0,
       "price_currency": "CAD"
     },
     {
@@ -2638,17 +2332,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt RS",
-      "vin": "1G1FZ6EV0VF119266",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/ac30919d84dd.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 40503.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS",
       "vin": "1G1FZ6EV0VF119560",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/313422b90e59.html",
       "year": 2027,
@@ -2682,17 +2365,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt RS",
-      "vin": "1G1FZ6EV2VF105904",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/076fd22d4087.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 42278.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS",
       "vin": "1G1FZ6EV2VF119754",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/965fa942826c.html",
       "year": 2027,
@@ -2700,17 +2372,6 @@
       "model": "Bolt",
       "condition": "new",
       "price": 42982.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS",
-      "vin": "1G1FZ6EV2VF119933",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/468bb20373e9.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 40107.0,
       "price_currency": "CAD"
     },
     {
@@ -2733,17 +2394,6 @@
       "model": "Bolt",
       "condition": "new",
       "price": 39503.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS",
-      "vin": "1G1FZ6EV4VF120260",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/b5d283e907c7.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 39612.0,
       "price_currency": "CAD"
     },
     {
@@ -2792,17 +2442,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt RS",
-      "vin": "1G1FZ6EV6VF126612",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/d178b2baabaa.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 47502.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS",
       "vin": "1G1FZ6EV7VF120267",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/23e9f451a436.html",
       "year": 2027,
@@ -2814,17 +2453,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt RS",
-      "vin": "1G1FZ6EV7VF123640",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/bef648f28467.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 42982.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS",
       "vin": "1G1FZ6EV8VF124151",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/a272586512ad.html",
       "year": 2027,
@@ -2832,6 +2460,50 @@
       "model": "Bolt",
       "condition": "new",
       "price": 43477.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Colorado 4WD Trail Boss",
+      "vin": "1GCPTEEE0V1111933",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c226fc8c46c4.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 58640.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Colorado 4WD Trail Boss",
+      "vin": "1GCPTEEE2V1112291",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/6d7b757e8cbd.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 58960.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Colorado 4WD Trail Boss",
+      "vin": "1GCPTEEE4V1115709",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/1039bab05416.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 58960.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Colorado 4WD ZR2",
+      "vin": "1GCPTFEE9V1106994",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/15ecf762175d.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 70275.0,
       "price_currency": "CAD"
     },
     {
@@ -3025,6 +2697,17 @@
     },
     {
       "name": "2027 Chevrolet Equinox AWD RS",
+      "vin": "3GNAXTEGXVL201428",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/ff1038bc3546.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new",
+      "price": 46020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD RS",
       "vin": "3GNAXTEGXVL204359",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/817ada72467d.html",
       "year": 2027,
@@ -3074,28 +2757,6 @@
       "model": "Equinox EV",
       "condition": "new",
       "price": 44108.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
-      "vin": "3GN7DMRP2VS107102",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/5d615620cadb.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 45117.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
-      "vin": "3GN7DMRP3VS108999",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/46d5ffcd4143.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 45117.0,
       "price_currency": "CAD"
     },
     {
@@ -3177,17 +2838,6 @@
     },
     {
       "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
-      "vin": "3GN7DMRP8VS109002",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/9a38f6c1752f.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 44522.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
       "vin": "3GN7DMRP8VS109016",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/836241248751.html",
       "year": 2027,
@@ -3243,19 +2893,19 @@
     },
     {
       "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
-      "vin": "3GN7DMRR4VS107118",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/39fbe8bc20ab.html",
+      "vin": "3GN7DMRR1VS115029",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c48dd1bbc1f6.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "new",
-      "price": 48022.0,
+      "price": 48835.0,
       "price_currency": "CAD"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
-      "vin": "3GN7DMRR6VS107119",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/97bfb3dd8cf0.html",
+      "vin": "3GN7DMRR4VS107118",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/39fbe8bc20ab.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox EV",
@@ -3283,6 +2933,28 @@
       "model": "Equinox EV",
       "condition": "new",
       "price": 48022.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Tahoe Z71",
+      "vin": "1GNS6PKD3VR162537",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/b820865d79dd.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "condition": "new",
+      "price": 106470.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Traverse High Country",
+      "vin": "1GNEVKKS5VJ199041",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/230d943ce960.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "condition": "new",
+      "price": 74326.0,
       "price_currency": "CAD"
     },
     {
@@ -3360,6 +3032,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 GMC Acadia Denali",
+      "vin": "1GKEMRKS8VJ199883",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/29c6ecae2478.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Acadia",
+      "condition": "new",
+      "price": 77910.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 GMC Acadia Elevation",
       "vin": "1GKEMNKS9VJ152225",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/8368981202f9.html",
@@ -3379,6 +3062,94 @@
       "model": "Acadia",
       "condition": "new",
       "price": 56402.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Savana Cargo Van BASE",
+      "vin": "1GTW7AFP3V1125589",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/7b31d9787cee.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Savana",
+      "condition": "new",
+      "price": 59491.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Savana Cargo Van BASE",
+      "vin": "1GTW7AFP8V1125572",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/ab7298c8f1e7.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Savana",
+      "condition": "new",
+      "price": 59491.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Sierra 1500 AT4",
+      "vin": "3GTUUPEM1VG102839",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/0db6b4ce3328.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 99215.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Sierra 1500 AT4",
+      "vin": "3GTUUPEM2VG102770",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/b2837ae044ab.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 99710.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Sierra 1500 Denali",
+      "vin": "3GTUULEMXVG102461",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/5318400dc59c.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 103105.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Sierra 1500 Elevation",
+      "vin": "3GTUUKEM2VG106594",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/fc837df31416.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 86700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Terrain AWD AT4",
+      "vin": "3GKALYEG2VL259510",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/02dfc2082431.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 53715.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Terrain AWD AT4",
+      "vin": "3GKALYEG3VL261623",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/360966f4dff6.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 53715.0,
       "price_currency": "CAD"
     },
     {
@@ -3410,6 +3181,17 @@
     },
     {
       "name": "2027 GMC Terrain AWD AT4",
+      "vin": "3GKALYEG7VL260491",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/453800418e93.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 50455.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Terrain AWD AT4",
       "vin": "3GKALYEG8VL152042",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/59d52ae9ba89.html",
       "year": 2027,
@@ -3427,36 +3209,20 @@
       "condition": "new"
     },
     {
+      "name": "2027 GMC Terrain AWD AT4",
+      "vin": "3GKALYEGXVL260128",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/a008f78da2dd.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 52350.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 GMC Terrain AWD Denali",
       "vin": "3GKALZEG3VL183205",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c3b3ce4babb0.html",
-      "year": 2027,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "new"
-    },
-    {
-      "name": "2027 GMC Terrain AWD Denali",
-      "vin": "3GKALZEG4VL163254",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/9d30fe11c49d.html",
-      "year": 2027,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "new"
-    },
-    {
-      "name": "2027 GMC Terrain AWD Denali",
-      "vin": "3GKALZEG5VL183061",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/8f394853317a.html",
-      "year": 2027,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "new"
-    },
-    {
-      "name": "2027 GMC Terrain AWD Denali",
-      "vin": "3GKALZEG6VL223227",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/542da4250747.html",
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
@@ -3479,6 +3245,50 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "new"
+    },
+    {
+      "name": "2027 GMC Terrain AWD Elevation",
+      "vin": "3GKALUEG4VL231829",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/806b0cedb01c.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 46315.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Terrain AWD Elevation",
+      "vin": "3GKALUEG7VL233218",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/db58f2f76a00.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 47750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Yukon AT4 Ultimate",
+      "vin": "1GKS2VKL2VR170794",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/9fa0fe99d993.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Yukon",
+      "condition": "new",
+      "price": 132675.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Yukon Denali",
+      "vin": "1GKS2DKL1VR156329",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/0f370f2ef6b3.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Yukon",
+      "condition": "new",
+      "price": 123780.0,
+      "price_currency": "CAD"
     }
   ]
 }
