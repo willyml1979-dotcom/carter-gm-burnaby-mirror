@@ -1,29 +1,23 @@
 {
   "dealership": "Carter Gm Burnaby",
-  "generated_at": "2026-10-26T10:52:36",
-  "vehicle_count": 339,
+  "generated_at": "2026-11-17T11:05:03",
+  "vehicle_count": 334,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used2008HondaFitFWDDX",
+      "vin": "JHMGD37218S802812",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/ba95933588c8.html",
+      "condition": "used",
+      "price": 7295.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Used2015BuickEncoreAWDLeather",
       "vin": "KL4CJGSB0FB220327",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/b017df26ff3d.html",
       "condition": "used"
-    },
-    {
-      "name": "Used2015GMCSierra 15004WDSLT",
-      "vin": "3GTU2VEC0FG302260",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/a4487b3ded47.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2016FordTransit Cargo VanRWDBase",
-      "vin": "1FTYR2CM8GKB53078",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/58e9200dc00b.html",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Used2016JeepWrangler Unlimited4WDWillys Wheeler",
@@ -36,29 +30,37 @@
       "vin": "1GYKNFRS7HZ181827",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/bfe3bbbe4ec7.html",
       "condition": "used",
-      "price": 26095.0,
+      "price": 23795.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2017FordSuper Duty F-350 SRW4WDXLT",
-      "vin": "1FT8X3B67HEE76729",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/b0b56d41f41e.html",
-      "condition": "used",
-      "price": 33395.0,
-      "price_currency": "CAD"
+      "name": "Used2017ChevroletSilverado 15004WDWork Truck",
+      "vin": "1GCVKNEH6HZ200609",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/54864d0db43d.html",
+      "condition": "used"
     },
     {
       "name": "Used2018GMCSierra 15004WDSLT",
       "vin": "3GTU2NEC9JG343818",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/07b0c833ed05.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "Used2018GMCSierra 15004WDSLT",
-      "vin": "3GTU2NEJ1JG334738",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/cf2e88c2f674.html",
+      "name": "Certified Used2018SubaruLegacyAWDLimited",
+      "vin": "4S3BNDN64J3014918",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/c66be44b2cca.html",
       "condition": "used",
-      "price": 24695.0,
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Certified Used2018ToyotaCamryFWDXSE",
+      "vin": "4T1BZ1HK2JU015339",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/fd5afa8aba38.html",
+      "condition": "used",
+      "price": 28095.0,
       "price_currency": "CAD"
     },
     {
@@ -66,23 +68,7 @@
       "vin": "5UXCW2C54KL080806",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/e0d14262a8ef.html",
       "condition": "used",
-      "price": 41195.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2019ChevroletBlazerAWDRS",
-      "vin": "3GNKBJRS2KS577290",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/0795244cb9ba.html",
-      "condition": "used",
-      "price": 21895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2019ChevroletColorado4WD4WD ZR2",
-      "vin": "1GCPTEE1XK1210820",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/001ee8a38b6b.html",
-      "condition": "used",
-      "price": 42995.0,
+      "price": 40195.0,
       "price_currency": "CAD"
     },
     {
@@ -90,15 +76,7 @@
       "vin": "1GNEVGKW0KJ205999",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/f2464d03f171.html",
       "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2019GMCSierra 3500HD4WDDenali",
-      "vin": "1GT42WEY6KF270931",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/cf8aff79be07.html",
-      "condition": "used",
-      "price": 57495.0,
+      "price": 20995.0,
       "price_currency": "CAD"
     },
     {
@@ -106,7 +84,7 @@
       "vin": "3GKALWEUXKL332435",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/ffe77e8cbb54.html",
       "condition": "used",
-      "price": 20895.0,
+      "price": 19395.0,
       "price_currency": "CAD"
     },
     {
@@ -114,15 +92,7 @@
       "vin": "YV4A22NL4K1078093",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/2ae38f1e869a.html",
       "condition": "used",
-      "price": 27495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2020ChevroletExpress Cargo VanRWDWork Van",
-      "vin": "1GCWGBFPXL1155949",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/60aaf3e05788.html",
-      "condition": "used",
-      "price": 29995.0,
+      "price": 26795.0,
       "price_currency": "CAD"
     },
     {
@@ -130,7 +100,7 @@
       "vin": "1GCPYDEK6LZ277471",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/becfbc868f5a.html",
       "condition": "used",
-      "price": 28995.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -138,15 +108,15 @@
       "vin": "KM8J3CA40LU264813",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/4cb09739e0a7.html",
       "condition": "used",
-      "price": 19395.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2021ChevroletTrailblazerAWDLT",
-      "vin": "KL79MRSL7MB169592",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/2b536114f70e.html",
+      "name": "Certified Used2021GMCSierra 15004WDElevation",
+      "vin": "1GTU9CET0MZ358339",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/6af18ba58198.html",
       "condition": "used",
-      "price": 21989.0,
+      "price": 41895.0,
       "price_currency": "CAD"
     },
     {
@@ -154,6 +124,22 @@
       "vin": "3GKALTEV5ML348696",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/d19490187fa4.html",
       "condition": "used"
+    },
+    {
+      "name": "Used2021KiaTellurideAWDSX",
+      "vin": "5XYP5DHC2MG188395",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/d1dc0620986a.html",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Certified Used2021NissanRogueAWDSV",
+      "vin": "5N1AT3BB0MC832479",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/85ce7ede10b2.html",
+      "condition": "used",
+      "price": 24795.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2021ToyotaRAV4AWDHybrid Limited",
@@ -164,43 +150,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2022ChevroletBolt EUVFWDPremier",
-      "vin": "1G1FZ6S05N4133524",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/74d4557f4d09.html",
+      "name": "Certified Used2022GMCSierra 15004WDSLT",
+      "vin": "3GTUUDET8NG606682",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/98da671042e4.html",
       "condition": "used",
-      "price": 25095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2022ChevroletColorado4WD4WD Work Truck",
-      "vin": "1GCGTBEN6N1259485",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/f84a3125aad5.html",
-      "condition": "used",
-      "price": 31995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2022ChevroletSilverado 15004WDRST",
-      "vin": "3GCUDEED4NG544258",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/42eafdce1a58.html",
-      "condition": "used",
-      "price": 28395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2022ChevroletTrailblazerFWDLT",
-      "vin": "KL79MPSL6NB072986",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/af9e1030740a.html",
-      "condition": "used",
-      "price": 18795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2022GMCYukon XL4WDDenali",
-      "vin": "1GKS2JKL1NR167491",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/bab3ea085d65.html",
-      "condition": "used",
-      "price": 69995.0,
+      "price": 48995.0,
       "price_currency": "CAD"
     },
     {
@@ -216,7 +170,7 @@
       "vin": "1N4AA6DVXNC505274",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/259c55c4145c.html",
       "condition": "used",
-      "price": 22995.0,
+      "price": 21495.0,
       "price_currency": "CAD"
     },
     {
@@ -224,37 +178,61 @@
       "vin": "KL4MMCSL4PB021828",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/1cd59806278f.html",
       "condition": "used",
-      "price": 26995.0,
+      "price": 22975.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "Used2023CadillacEscalade ESV4WD4WD Sport Platinum",
-      "vin": "1GYS4RKL3PR254200",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/b315987632a7.html",
-      "condition": "used"
     },
     {
       "name": "Certified Used2023CadillacXT4AWDAWD Sport",
       "vin": "1GYFZFR41PF205577",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/df86ad347718.html",
       "condition": "used",
-      "price": 37995.0,
+      "price": 35994.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2024BuickEnvistaFWDPreferred",
-      "vin": "KL47LAE23RB173691",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/da9d7c4416d4.html",
+      "name": "Certified Used2023ChevroletBolt EUVFWDLT",
+      "vin": "1G1FY6S02P4171735",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/a1fcf81e54cc.html",
       "condition": "used",
-      "price": 24195.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2024GMCAcadiaAWDElevation",
-      "vin": "1GKENNKS7RJ157202",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/4471591ff66d.html",
+      "name": "Certified Used2023ChevroletBolt EUVFWDPremier",
+      "vin": "1G1FZ6S09P4171048",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/e31a744d5d1a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Certified Used2023ChevroletTrailblazerAWDRS",
+      "vin": "KL79MUSL8PB218015",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/0d3fe6595fb7.html",
       "condition": "used",
-      "price": 44995.0,
+      "price": 24695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Certified Used2023GMCYukon XL4WDDenali",
+      "vin": "1GKS2JKT4PR250447",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/85eec3b3b505.html",
+      "condition": "used",
+      "price": 74995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Certified Used2023ToyotaRAV4AWDHybrid XLE",
+      "vin": "2T3RWRFVXPW159885",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/76f80a5b7ae8.html",
+      "condition": "used",
+      "price": 40995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2024ChevroletTraxFWDLS",
+      "vin": "KL77LFE27RC061700",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/0fadb3581538.html",
+      "condition": "used",
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -262,23 +240,7 @@
       "vin": "3GKALXEG3RL284383",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/2b4c4699f42c.html",
       "condition": "used",
-      "price": 28695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2026CadillacLYRIQAWDPremium Sport",
-      "vin": "1GYKPWRL5TZ307372",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/3880aac0eeb1.html",
-      "condition": "used",
-      "price": 70095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2026GMCTerrainAWDAWD Elevation",
-      "vin": "3GKALUEG0TL187647",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/93509b255593.html",
-      "condition": "used",
-      "price": 38195.0,
+      "price": 27495.0,
       "price_currency": "CAD"
     },
     {
