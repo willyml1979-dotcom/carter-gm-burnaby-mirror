@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Burnaby",
-  "generated_at": "2026-11-18T11:00:13",
-  "vehicle_count": 318,
+  "generated_at": "2026-11-18T12:37:24",
+  "vehicle_count": 319,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1085,7 +1085,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "new",
-      "price": 118827.0,
+      "price": 118860.0,
       "price_currency": "CAD"
     },
     {
@@ -1096,7 +1096,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "new",
-      "price": 116202.0,
+      "price": 116235.0,
       "price_currency": "CAD"
     },
     {
@@ -1107,7 +1107,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "new",
-      "price": 120142.0,
+      "price": 120175.0,
       "price_currency": "CAD"
     },
     {
@@ -1118,7 +1118,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "new",
-      "price": 83657.0,
+      "price": 83690.0,
       "price_currency": "CAD"
     },
     {
@@ -1129,7 +1129,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "new",
-      "price": 113368.0,
+      "price": 113505.0,
       "price_currency": "CAD"
     },
     {
@@ -1140,7 +1140,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "new",
-      "price": 111167.0,
+      "price": 111200.0,
       "price_currency": "CAD"
     },
     {
@@ -1162,7 +1162,7 @@
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "new",
-      "price": 42617.0,
+      "price": 42650.0,
       "price_currency": "CAD"
     },
     {
@@ -1173,7 +1173,7 @@
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "new",
-      "price": 34032.0,
+      "price": 34065.0,
       "price_currency": "CAD"
     },
     {
@@ -1184,7 +1184,7 @@
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "new",
-      "price": 36882.0,
+      "price": 36915.0,
       "price_currency": "CAD"
     },
     {
@@ -1195,7 +1195,7 @@
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "new",
-      "price": 42122.0,
+      "price": 42155.0,
       "price_currency": "CAD"
     },
     {
@@ -1206,7 +1206,7 @@
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "new",
-      "price": 43072.0,
+      "price": 43105.0,
       "price_currency": "CAD"
     },
     {
@@ -1217,7 +1217,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "new",
-      "price": 30432.0,
+      "price": 30465.0,
       "price_currency": "CAD"
     },
     {
@@ -1228,7 +1228,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "new",
-      "price": 33387.0,
+      "price": 33420.0,
       "price_currency": "CAD"
     },
     {
@@ -1239,7 +1239,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "new",
-      "price": 33387.0,
+      "price": 33420.0,
       "price_currency": "CAD"
     },
     {
@@ -1261,7 +1261,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "new",
-      "price": 34377.0,
+      "price": 34410.0,
       "price_currency": "CAD"
     },
     {
@@ -2724,6 +2724,17 @@
       "model": "Equinox EV",
       "condition": "new",
       "price": 45117.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
+      "vin": "3GN7DMRP1VS109021",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/293defa27bd2.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "condition": "new",
+      "price": 44555.0,
       "price_currency": "CAD"
     },
     {

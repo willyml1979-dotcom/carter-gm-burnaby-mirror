@@ -1,6 +1,6 @@
 # Carter GM Burnaby
 
- dealership in Burnaby. AI-readable inventory mirror, about 318 vehicles.
+ dealership in Burnaby. AI-readable inventory mirror, about 319 vehicles.
 
 - Official website: https://www.cartergm.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/
