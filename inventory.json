@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Burnaby",
-  "generated_at": "2026-11-17T15:11:45",
-  "vehicle_count": 316,
+  "generated_at": "2026-11-18T01:59:57",
+  "vehicle_count": 317,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -112,6 +112,12 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Certified Used2021ChevroletTrailblazerAWDLT",
+      "vin": "KL79MRSL3MB178497",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/5742794c7d67.html",
+      "condition": "used"
+    },
+    {
       "name": "Certified Used2021GMCSierra 15004WDElevation",
       "vin": "1GTU9CET0MZ358339",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/6af18ba58198.html",
@@ -123,10 +129,12 @@
       "name": "Certified Used2021GMCTerrainAWDSLE",
       "vin": "3GKALTEV5ML348696",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/d19490187fa4.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 19885.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "Used2021KiaTellurideAWDSX",
+      "name": "Certified Used2021KiaTellurideAWDSX",
       "vin": "5XYP5DHC2MG188395",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/d1dc0620986a.html",
       "condition": "used",
@@ -146,7 +154,7 @@
       "vin": "2T3DWRFV4MW108100",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/465c68be0d2a.html",
       "condition": "used",
-      "price": 38795.0,
+      "price": 37595.0,
       "price_currency": "CAD"
     },
     {
