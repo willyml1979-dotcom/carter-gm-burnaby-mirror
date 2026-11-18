@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Burnaby",
-  "generated_at": "2026-11-18T01:59:57",
-  "vehicle_count": 317,
+  "generated_at": "2026-11-18T03:53:45",
+  "vehicle_count": 316,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -791,17 +791,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss",
-      "vin": "3GCUKCEDXTG193850",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/c9d7e1b8aa12.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 57565.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Silverado 1500 LT",
       "vin": "1GCUKDED1TZ555036",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/370c8f202e93.html",
@@ -908,7 +897,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new",
-      "price": 109342.0,
+      "price": 116375.0,
       "price_currency": "CAD"
     },
     {
@@ -918,7 +907,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "price": 74460.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD LT",
@@ -939,7 +930,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new",
-      "price": 98817.0,
+      "price": 89350.0,
       "price_currency": "CAD"
     },
     {
@@ -950,7 +941,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new",
-      "price": 96088.0,
+      "price": 86621.0,
       "price_currency": "CAD"
     },
     {
@@ -961,7 +952,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new",
-      "price": 102557.0,
+      "price": 100090.0,
       "price_currency": "CAD"
     },
     {
@@ -972,7 +963,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new",
-      "price": 103957.0,
+      "price": 101490.0,
       "price_currency": "CAD"
     },
     {
@@ -983,7 +974,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new",
-      "price": 103292.0,
+      "price": 100825.0,
       "price_currency": "CAD"
     },
     {
@@ -994,7 +985,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new",
-      "price": 80538.0,
+      "price": 78071.0,
       "price_currency": "CAD"
     },
     {
@@ -1005,7 +996,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
       "condition": "new",
-      "price": 80293.0,
+      "price": 77826.0,
       "price_currency": "CAD"
     },
     {
@@ -1016,7 +1007,7 @@
       "make": "Chevrolet",
       "model": "Suburban",
       "condition": "new",
-      "price": 117697.0,
+      "price": 117730.0,
       "price_currency": "CAD"
     },
     {
@@ -1027,7 +1018,7 @@
       "make": "Chevrolet",
       "model": "Suburban",
       "condition": "new",
-      "price": 118192.0,
+      "price": 118225.0,
       "price_currency": "CAD"
     },
     {
@@ -1038,7 +1029,7 @@
       "make": "Chevrolet",
       "model": "Suburban",
       "condition": "new",
-      "price": 116882.0,
+      "price": 109915.0,
       "price_currency": "CAD"
     },
     {
@@ -1049,7 +1040,7 @@
       "make": "Chevrolet",
       "model": "Suburban",
       "condition": "new",
-      "price": 97602.0,
+      "price": 97635.0,
       "price_currency": "CAD"
     },
     {
@@ -1060,7 +1051,7 @@
       "make": "Chevrolet",
       "model": "Suburban",
       "condition": "new",
-      "price": 109472.0,
+      "price": 109505.0,
       "price_currency": "CAD"
     },
     {
@@ -1071,7 +1062,7 @@
       "make": "Chevrolet",
       "model": "Suburban",
       "condition": "new",
-      "price": 105077.0,
+      "price": 105110.0,
       "price_currency": "CAD"
     },
     {
@@ -2219,17 +2210,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV6VF112406",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/8e14f5f32168.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 42403.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV6VF123616",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/23fba7948744.html",
       "year": 2027,
@@ -2736,17 +2716,6 @@
     },
     {
       "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
-      "vin": "3GN7DMRP1VS109021",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/293defa27bd2.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 44522.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
       "vin": "3GN7DMRP1VS109035",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/41a816e0bb08.html",
       "year": 2027,
@@ -2846,6 +2815,17 @@
     },
     {
       "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
+      "vin": "3GN7DMRP8VS109002",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/9a38f6c1752f.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "condition": "new",
+      "price": 44555.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
       "vin": "3GN7DMRP8VS109016",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/836241248751.html",
       "year": 2027,
@@ -2941,6 +2921,17 @@
       "model": "Equinox EV",
       "condition": "new",
       "price": 48022.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Silverado 1500 ZR2",
+      "vin": "3GCUKHEN7VG111114",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/new/7fe0c5902174.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 108195.0,
       "price_currency": "CAD"
     },
     {
