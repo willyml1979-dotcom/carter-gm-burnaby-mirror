@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Burnaby",
-  "generated_at": "2026-11-18T03:53:45",
-  "vehicle_count": 316,
+  "generated_at": "2026-11-18T11:00:13",
+  "vehicle_count": 318,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -46,6 +46,12 @@
       "condition": "used",
       "price": 19995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Used2018NissanMuranoAWDSL",
+      "vin": "5N1AZ2MH3JN102219",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/002d02f9aac7.html",
+      "condition": "used"
     },
     {
       "name": "Certified Used2018SubaruLegacyAWDLimited",
@@ -220,6 +226,12 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2023ChevroletTraverseAWDRS",
+      "vin": "1GNEVJKW5PJ292318",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/74773e3c549a.html",
+      "condition": "used"
+    },
+    {
       "name": "Certified Used2023GMCYukon XL4WDDenali",
       "vin": "1GKS2JKT4PR250447",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/85eec3b3b505.html",
@@ -236,7 +248,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2024ChevroletTraxFWDLS",
+      "name": "Certified Used2024ChevroletTraxFWDLS",
       "vin": "KL77LFE27RC061700",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-burnaby-mirror/used/0fadb3581538.html",
       "condition": "used",
